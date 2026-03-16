@@ -121,6 +121,3 @@ Users can dynamically filter the dashboard using:
 - Pandas
 - Power BI
 
----
-
-## 📁 Project Structure
